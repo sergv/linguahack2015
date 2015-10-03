@@ -1,5 +1,6 @@
 
-* Take pdf and a word from user
+* DONE Take pdf and a word from user
+  CLOSED: [2015-10-03 Sat 14:01]
 * Get index from pdf
 * Find all word mentions from pdf index or build index ourselves if there's none
 * Get all paragraphs where word is mentioned
