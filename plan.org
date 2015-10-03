@@ -1,0 +1,7 @@
+
+* Take pdf and a word from user
+* Get index from pdf
+* Find all word mentions from pdf index or build index ourselves if there's none
+* Get all paragraphs where word is mentioned
+* (Next Level) add facility to filter paragraph with uses fo given word that mention word in lax position
+
